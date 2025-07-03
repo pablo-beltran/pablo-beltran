@@ -1,48 +1,64 @@
-# 👋 Hola, soy Pablo Beltrán
+<h1 align="center">👋 Hola, soy Pablo Beltrán</h1>
+<p align="center">💻 Full Stack Developer | Apasionado por crear soluciones eficientes</p>
 
-Soy un desarrollador Full Stack con casi 4 años de experiencia en el desarrollo de soluciones escalables. Trabajé en IBM como Software Engineer, donde construí microservicios, herramientas internas y automatizaciones que impactaron a equipos globales.
-
-🔭 Actualmente estoy trabajando en proyectos personales y aprendiendo sobre tecnologías como **React**, **Node.js**, **Cloudant** y **Puppeteer**.  
-🌐 Puedes visitar mi portafolio en [pablobeltran.netlify.app](https://pablobeltran.netlify.app).  
-📫 Contáctame: pablobeltran.dev@gmail.com
-
-## 💻 Tecnologías que uso
-
-- **Frontend**: React, JavaScript, HTML5, CSS3, Tailwind
-- **Backend**: Node.js, Express, Java, Python
-- **Bases de datos**: MongoDB, MySQL, IBM Cloudant
-- **Cloud & DevOps**: IBM Cloud, AWS (básico), Docker, Git
-- **Otros**: Puppeteer, TinyMCE, WebSockets
-
-## 📂 Proyectos destacados
-
-A pesar de que gran parte de mi trabajo en IBM fue confidencial, estoy construyendo y compartiendo proyectos personales para mostrar mis habilidades. Algunos de ellos están disponibles en este perfil — ¡más pronto!
-
-- ✨ [Portafolio personal](https://pablobeltran.netlify.app): Sitio estático hecho con React para mostrar mi experiencia y proyectos.
-- 📄 Editor de documentos estilo Word con vista previa en PDF (en desarrollo).
-- 📦 Automatización con Puppeteer para generación de PDFs dinámicos (en progreso).
-
-## 🚀 Objetivos actuales
-
-- Contribuir a proyectos open source.
-- Publicar más proyectos personales.
-- Conseguir nuevas oportunidades laborales como **Support Engineer** o **Desarrollador Full Stack**.
+<p align="center">
+  <a href="https://pablobeltran.netlify.app" target="_blank">
+    🌐 Portafolio
+  </a> •
+  <a href="mailto:pablobeltran.dev@gmail.com">
+    ✉️ Contacto
+  </a> •
+  <a href="https://www.linkedin.com/in/pabloxbeltran/" target="_blank">
+    💼 LinkedIn
+  </a>
+</p>
 
 ---
 
-Gracias por visitar mi perfil 👨‍💻 ¡Estoy abierto a colaboraciones y nuevos retos!
+### 🧑‍💻 Sobre mí
 
-<!--
-**pablo-beltran/pablo-beltran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador Full Stack con casi 4 años de experiencia. Trabajé en IBM como Software Engineer desarrollando microservicios, herramientas internas y automatizaciones para equipos globales.
 
-Here are some ideas to get you started:
+🧠 Me especializo en **JavaScript**, **React**, **Node.js**, **Java**, **Python**, y **bases de datos** como Cloudant y MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Busco seguir creciendo profesionalmente y contribuir con soluciones tecnológicas de impacto.
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,python,mongodb,mysql,tailwind,html,css,docker,git" />
+</p>
+
+---
+
+### 🔥 Proyectos destacados
+
+- ⚡ [**Portafolio personal**](https://pablobeltran.netlify.app): Sitio estático hecho en React para mostrar mi experiencia, habilidades y contacto.
+- 📝 **Editor de documentos estilo Word con vista previa en PDF** (en desarrollo): Usa React, TinyMCE y Puppeteer para renderizado dinámico.
+- 🧾 **Generador automático de PDFs con Puppeteer** (en progreso): Automatización de contenido dinámico y generación de documentos.
+
+> 🔒 Muchos de mis proyectos en IBM fueron privados, pero estoy trabajando en compartir más ejemplos personales y técnicos en mi perfil público.
+
+---
+
+### 🎯 Objetivos actuales
+
+- 💼 Encontrar nuevas oportunidades como **Full Stack Developer** o **Support Engineer**.
+- 🌱 Seguir desarrollando herramientas útiles para equipos y usuarios.
+- 🤝 Colaborar con la comunidad y contribuir a proyectos open source.
+
+---
+
+### 📫 ¿Quieres contactarme?
+
+- 🖥️ Web: [pablobeltran.netlify.app](https://pablobeltran.netlify.app)
+- 📧 Email: [pablobeltran.dev@gmail.com](mailto:pablobeltran.dev@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/pablobeltrandaniel](https://www.linkedin.com/in/pablobeltrandaniel)
+
+---
+
+<p align="center">
+  Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaboraciones y nuevos retos!
+</p>
