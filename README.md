@@ -1,64 +1,60 @@
-<h1 align="center">👋 Hola, soy Pablo Beltrán</h1>
-<p align="center">💻 Full Stack Developer | Apasionado por crear soluciones eficientes</p>
+# 👋 Hola, soy Pablo Beltrán
 
-<p align="center">
-  <a href="https://pablobeltran.netlify.app" target="_blank">
-    🌐 Portafolio
-  </a> •
-  <a href="mailto:pablobeltran.dev@gmail.com">
-    ✉️ Contacto
-  </a> •
-  <a href="https://www.linkedin.com/in/pabloxbeltran/" target="_blank">
-    💼 LinkedIn
-  </a>
-</p>
+Bienvenido a mi perfil de GitHub. Soy **Full‑Stack Software & Data Engineer**, apasionado por diseñar y construir soluciones escalables y elegantes. Me especializo en trabajar con **Java (Spring Boot), React, TypeScript, Python y Node.js**.
 
 ---
 
-### 🧑‍💻 Sobre mí
+## 🧩 Qué hago
 
-Soy un desarrollador Full Stack con casi 4 años de experiencia. Trabajé en IBM como Software Engineer desarrollando microservicios, herramientas internas y automatizaciones para equipos globales.
-
-🧠 Me especializo en **JavaScript**, **React**, **Node.js**, **Java**, **Python**, y **bases de datos** como Cloudant y MongoDB.
-
-🚀 Busco seguir creciendo profesionalmente y contribuir con soluciones tecnológicas de impacto.
-
----
-
-### 🛠️ Tecnologías y herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,python,mongodb,mysql,tailwind,html,css,docker,git" />
-</p>
+- Desarrollo front-end con **React y TypeScript** para crear interfaces modernas, accesibles y centradas en el usuario.  
+- Construyo back-end robustos y optimizados usando, **Node.js**, **Java / Spring Boot** o **Python** según el contexto.  
+- Diseño arquitecturas de microservicios, APIs REST y estructuras de datos escalables.  
+- Implemento pipelines automatizados con herramientas cloud (AWS, GCP e IBM Cloud).  
+- Trabajo con sistemas de datos grandes y heterogéneos, diseñando soluciones tipo **data lake**, ETL y procesamiento en tiempo real.
 
 ---
 
-### 🔥 Proyectos destacados
+## 🚀 Experiencia destacada
 
-- ⚡ [**Portafolio personal**](https://pablobeltran.netlify.app): Sitio estático hecho en React para mostrar mi experiencia, habilidades y contacto.
-- 📝 **Editor de documentos estilo Word con vista previa en PDF** (en desarrollo): Usa React, TinyMCE y Puppeteer para renderizado dinámico.
-- 🧾 **Generador automático de PDFs con Puppeteer** (en progreso): Automatización de contenido dinámico y generación de documentos.
-
-> 🔒 Muchos de mis proyectos en IBM fueron privados, pero estoy trabajando en compartir más ejemplos personales y técnicos en mi perfil público.
+- Experiencia profesional sólida en **Python y Node.js**, liderando desarrollo backend y diseño de sistemas.  
+- Fundamentos fuertes en **Java y Spring Boot**, adquiridos en 4 años de universidad y 1 año profesional construyendo APIs, servicios y lógica de negocio.  
+- Enfoque full-stack con mentalidad práctica, adaptable a distintos entornos y tecnologías.
 
 ---
 
-### 🎯 Objetivos actuales
+## 🛠 Tecnologías principales
 
-- 💼 Encontrar nuevas oportunidades como **Full Stack Developer** o **Support Engineer**.
-- 🌱 Seguir desarrollando herramientas útiles para equipos y usuarios.
-- 🤝 Colaborar con la comunidad y contribuir a proyectos open source.
-
----
-
-### 📫 ¿Quieres contactarme?
-
-- 🖥️ Web: [pablobeltran.netlify.app](https://pablobeltran.netlify.app)
-- 📧 Email: [pablobeltran.dev@gmail.com](mailto:pablobeltran.dev@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/pablobeltrandaniel](https://www.linkedin.com/in/pablobeltrandaniel)
+| Área             | Tecnologías |
+|------------------|-------------|
+| Front-end        | React, TypeScript, HTML, CSS |
+| Back-end         | Java (Spring Boot), Node.js, Python |
+| Arquitectura     | REST, GraphQL, Microservicios |
+| Cloud & DevOps   | AWS, GCP, IBM Cloud, CI/CD |
+| Datos            | Data Lakes, ETL, APIs externas, JSON, SQL/NoSQL |
+| Testing          | JUnit, Mockito, Postman |
 
 ---
 
-<p align="center">
-  Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaboraciones y nuevos retos!
-</p>
+## 🌍 Portafolio y proyectos
+
+Puedes explorar algunos de mis proyectos destacados en mi página web:  
+🔗 [pablobeltran.netlify.app](https://pablobeltran.netlify.app)
+
+---
+
+## 🎯 Qué me distingue
+
+- Experiencia real en ambientes **ágiles**, colaborando con equipos en Canadá, Reino Unido, Alemania y Francia.  
+- Capacidad de adaptación entre tecnologías y entornos backend/frontend con mentalidad de ownership.  
+- Pasión por crear soluciones limpias, eficientes y que agreguen valor.
+
+---
+
+## 📬 ¿Te interesa colaborar?
+
+Estoy abierto a nuevas oportunidades en desarrollo **full-stack**, especialmente con Java, Spring Boot, React o Node.js.  
+¡No dudes en escribirme o conectar por LinkedIn!
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
