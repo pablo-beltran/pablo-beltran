@@ -1,60 +1,60 @@
-# 👋 Hola, soy Pablo Beltrán
+# 👋 Hi, I'm Pablo Beltrán
 
-Bienvenido a mi perfil de GitHub. Soy **Full‑Stack Software & Data Engineer**, apasionado por diseñar y construir soluciones escalables y elegantes. Me especializo en trabajar con **Java (Spring Boot), React, TypeScript, Python y Node.js**.
-
----
-
-## 🧩 Qué hago
-
-- Desarrollo front-end con **React y TypeScript** para crear interfaces modernas, accesibles y centradas en el usuario.  
-- Construyo back-end robustos y optimizados usando, **Node.js**, **Java / Spring Boot** o **Python** según el contexto.  
-- Diseño arquitecturas de microservicios, APIs REST y estructuras de datos escalables.  
-- Implemento pipelines automatizados con herramientas cloud (AWS, GCP e IBM Cloud).  
-- Trabajo con sistemas de datos grandes y heterogéneos, diseñando soluciones tipo **data lake**, ETL y procesamiento en tiempo real.
+Welcome to my GitHub profile. I’m a **Full‑Stack Software & Data Engineer**, passionate about designing and building scalable and elegant solutions. I specialize in working with **Python React, TypeScript, Java, and Node.js**.
 
 ---
 
-## 🚀 Experiencia destacada
+## 🧩 What I Do
 
-- Experiencia profesional sólida en **Python y Node.js**, liderando desarrollo backend y diseño de sistemas.  
-- Fundamentos fuertes en **Java y Spring Boot**, adquiridos en 4 años de universidad y 1 año profesional construyendo APIs, servicios y lógica de negocio.  
-- Enfoque full-stack con mentalidad práctica, adaptable a distintos entornos y tecnologías.
+- Front-end development with **React, TypeScript and JavaScript** to create modern, accessible, and user-centered interfaces.  
+- Build robust and optimized backends using **Node.js**, **Java / Spring Boot**, or **Python**, depending on the context.  
+- Design microservice architectures, REST APIs, and scalable data structures.  
+- Implement automated pipelines with cloud tools (AWS, GCP, and IBM Cloud).  
+- Work with large and heterogeneous data systems, designing **data lake**, ETL, and real-time processing solutions.
 
 ---
 
-## 🛠 Tecnologías principales
+## 🚀 Key Experience
 
-| Área             | Tecnologías |
+- Solid professional experience with **Python and Node.js**, leading backend development and system design.  
+- Strong foundations in **Java and Spring Boot**, acquired through 4 years of university and 1 year of professional experience building APIs, services, and business logic.  
+- Full-stack focus with a practical mindset, adaptable to different environments and technologies.
+
+---
+
+## 🛠 Core Technologies
+
+| Area             | Technologies |
 |------------------|-------------|
 | Front-end        | React, TypeScript, HTML, CSS |
 | Back-end         | Java (Spring Boot), Node.js, Python |
-| Arquitectura     | REST, GraphQL, Microservicios |
+| Architecture     | REST, GraphQL, Microservices |
 | Cloud & DevOps   | AWS, GCP, IBM Cloud, CI/CD |
-| Datos            | Data Lakes, ETL, APIs externas, JSON, SQL/NoSQL |
+| Data             | Data Lakes, ETL, External APIs, JSON, SQL/NoSQL |
 | Testing          | JUnit, Mockito, Postman |
 
 ---
 
-## 🌍 Portafolio y proyectos
+## 🌍 Portfolio & Projects
 
-Puedes explorar algunos de mis proyectos destacados en mi página web:  
+You can explore some of my highlighted projects on my personal website:  
 🔗 [pablobeltran.netlify.app](https://pablobeltran.netlify.app)
 
 ---
 
-## 🎯 Qué me distingue
+## 🎯 What Sets Me Apart
 
-- Experiencia real en ambientes **ágiles**, colaborando con equipos en Canadá, Reino Unido, Alemania y Francia.  
-- Capacidad de adaptación entre tecnologías y entornos backend/frontend con mentalidad de ownership.  
-- Pasión por crear soluciones limpias, eficientes y que agreguen valor.
-
----
-
-## 📬 ¿Te interesa colaborar?
-
-Estoy abierto a nuevas oportunidades en desarrollo **full-stack**, especialmente con Java, Spring Boot, React o Node.js.  
-¡No dudes en escribirme o conectar por LinkedIn!
+- Real experience in **agile environments**, collaborating with teams in Canada, the UK, Germany, and France.  
+- Ability to adapt across backend/frontend technologies with an ownership mindset.  
+- Passion for creating clean, efficient solutions that deliver value.
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+## 📬 Interested in Collaborating?
+
+I’m open to new **full-stack development** opportunities, especially with Java, Spring Boot, React, or Node.js.  
+Feel free to message me or connect via LinkedIn!
+
+---
+
+Thanks for visiting my profile! 🚀
